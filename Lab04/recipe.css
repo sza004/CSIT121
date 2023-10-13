@@ -1,0 +1,79 @@
+body{Color:hotpink; background-color:lightgrey}
+
+p{color:#555; margin: 10px; font-family: Georgia, serif}
+
+h1{color: #ff6600; font-family: Arial, sans-serif; margin: 20px; text-transform: uppercase}
+
+h2{color:#0077b6; font-family: times new roman; text-transform: uppercase}
+
+li{color:#228B22; margin: 5px 0; texr-transform: none}
+
+img {
+	width:300px; 
+	.dashedborder border-width: 4px; 
+	border-style: dashed; 
+    border-color: #000000;
+    box-shadow: 10px 10px 10px blueviolet;
+}
+
+.pizzarolling {
+	background: url("image/pizzarolling.jpeg");
+	background:-size: 200%;
+	background-position: center;
+	width: 300px;
+	border-style:dashed ;
+	height: 200px;
+	border-color: #000000
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px blueviolet; 
+}
+
+img {float: center}
+
+.pizzarolling {float: right}
+
+main {margin-left: 100px}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, main, .name {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+footer {font-size: 70%; text-align: center; clear: right; padding-bottom: 20px; float: left}
+
+.ing {float: left}
+
+.steps {float: left; padding-bottom: 20px;x}
+
+.inst {float: right}
+
+.procedure {float: right;
+    width: 70%;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+h2, .ending {float: left}
+
+a:link {
+    color: #0077cc; 
+    text-decoration: none}
+
+a:visited { color: #990099}
+}
+
+
+a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
