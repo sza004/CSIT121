@@ -1,0 +1,45 @@
+body {
+    background-image: url("image/background.jpeg");
+    background-size: cover;
+  background-color: lavender
+}
+
+header {
+    background-color: Orange;
+    color: white;
+    text-align: center;
+    padding: 20px; 
+  font-style: Italic;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    padding: 10px;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: purple;
+  color: white;
+    padding: 20px;
+}
+
+h2 {text-align: center}
+
+img {
+    max-width: 100%;
+}
+
+footer {text-allign: center; font-style: italic; color: white}
